@@ -1,0 +1,93 @@
+Pathway
+
+TRACK SYSTEM: Run Math, CS, and Aerospace in parallel
+rather than sequentially — your 30-50hrs/week makes this possible
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 1: FOUNDATION (Now → Dec 2026)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MATH TRACK (10-12hrs/week)
+Khan Academy: Algebra 1 → Algebra 2 → Trigonometry
+↓ Switch to Math Academy at Precalculus
+Precalculus → Calculus 1
+
+CS TRACK (10-12hrs/week)
+Complete CS50x + CS50p ← almost done ✓
+Start CS50 AI with Python (directly relevant)
+Begin UoPeople CS degree (May 2026)
+Transfer max credits aggressively
+
+AEROSPACE AWARENESS TRACK (5-6hrs/week)
+MIT OCW 16.00 Intro to Aerospace (watch lectures, no math needed yet)
+Read: "Fundamentals of Astrodynamics" by Bate, Mueller & White
+     ← the classic entry text, very readable early on
+Follow: Everyday Astronaut, Scott Manley, Real Engineering on YouTube
+        ← builds intuition and vocabulary fast
+Create Github account + start documenting your learning
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 2: BUILDING DEPTH (Jan 2027 → Dec 2027)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MATH TRACK (8-10hrs/week)
+Calculus 2 → Calculus 3 (Multivariable)
+Linear Algebra (MIT OCW 18.06 — Gilbert Strang)
+
+CS TRACK (10hrs/week)
+UoPeople CS core courses
+Start learning C++ alongside Python
+  ← flight software is heavily C++ in industry
+ROS (Robot Operating System) basics
+
+AEROSPACE TRACK (10hrs/week)
+MIT OCW 8.01 Classical Mechanics ← math is ready now
+MATLAB Onramp + Simulink Onramp (free, MathWorks)
+First Real Project:
+  → Build satellite orbit simulator in Python using
+    existing libraries (poliastro library is perfect for this)
+  → Visualise it — even matplotlib first, Unreal later
+  → Put on GitHub with proper documentation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 3: SPECIALISATION (Jan 2028 → Dec 2028)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MATH TRACK (5hrs/week)
+Differential Equations (MIT OCW 18.03)
+Numerical Methods ← where simulation lives
+
+CS + AEROSPACE MERGED TRACK (20hrs/week)
+MIT OCW 16.346 Astrodynamics
+MIT OCW 16.83 Space Systems Engineering
+GMAT (NASA tool) — orbital mechanics simulation
+Udacity Autonomous Flight Engineer
+GRE Preparation ← start early, 6 months minimum
+
+PORTFOLIO TRACK (8-10hrs/week)
+Project 2: GMAT orbital simulation
+  → Pipe telemetry into Unreal Engine
+  → Real physics, beautiful visualisation
+  → Document everything, write about it on LinkedIn/GitHub
+Start identifying 15-20 target professors at:
+  → CU Boulder (satellites)
+  → Georgia Tech (aerospace systems)
+  → UT Austin (flight software)
+  → University of Michigan
+  → Texas A&M
+Begin following their research papers
+Start cold emailing professors with your project work
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHASE 4: LAUNCH (Jan 2029 → Aug 2029)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Complete UoPeople CS degree
+GRE — target 320+ (160V + 160Q minimum)
+Apply to 12-15 programs (mix of MS and PhD)
+  → 3 reach schools (MIT, Michigan, Georgia Tech)
+  → 6 target schools (CU Boulder, UIUC, Texas A&M)
+  → 3-4 safety schools (still good programs)
+Apply for fellowships:
+  → NASA Fellowship
+  → NSF GRFP (check international eligibility)
+  → AIAA scholarships
