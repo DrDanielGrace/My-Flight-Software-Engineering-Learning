@@ -40,18 +40,16 @@ def caesar(text, shift, encrypt=True):
 
 
 def encrypt(text, shift):
-    # Public-facing encrypt function
     # Calls caesar() with default encrypt=True
     return caesar(text, shift)
 
 
 def decrypt(text, shift):
-    # Public-facing decrypt function
     # Calls caesar() with encrypt=False to reverse the shift
     return caesar(text, shift, encrypt=False)
 
 
-# Test the cipher: encrypt 'freeCodeCamp' with a shift of 3
-# Expected output: 'iuhhFrghFdps'
-encrypted_text = encrypt('freeCodeCamp', 3)
-print(encrypted_text)
+# Decrypt a hidden message using a shift of 13 
+encrypted_text = 'Pbhentr vf sbhaq va hayvxryl cynprf.'
+decrypted_text = decrypt(encrypted_text, 13)
+print(decrypted_text)
