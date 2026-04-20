@@ -1,0 +1,8 @@
+Destination: (10000 x, 5500 y)
+Distance (m): 11412.71m
+Speed: 25 m/s
+Flight Time: 456.51s
+Battery Consumption: 25 mAh/s
+Required Battery: 11412.71 mAh
+Available Battery: 20000 mAh
+Mission Feasible: True
