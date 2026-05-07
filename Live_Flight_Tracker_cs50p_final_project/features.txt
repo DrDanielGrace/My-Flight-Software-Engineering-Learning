@@ -1,0 +1,37 @@
+# Live Flight Tracker - Version Roadmap
+
+================================================
+V2 - Enhanced Flight Data
+================================================
+- Departure airport
+- Destination airport
+- Aircraft home country
+- Distance to destination airport
+- Time already in flight
+- Estimated time remaining to destination
+- Status flags: "About to take off" / "Just landed"
+
+================================================
+V3 - Web & Intelligence
+================================================
+- Web-based launch with interactive UI/UX
+- AI chat for questions about current flight data
+- Departure and destination aerodrome weather
+- Current aerodrome weather conditions
+- Aircraft information and flight limits
+- Continuous monitoring (auto-refresh every 5 minutes)
+
+================================================
+V4 - Advanced Analytics & Prediction
+================================================
+- Full plane trip tracker
+- Flight tickets and schedules integration
+- Mission feasibility checker using METAR and TAF data
+- Algorithm to predict flight delays based on weather
+  vs scheduled departure time
+- Holding pattern predictor based on airport traffic
+  and weather conditions at destination
+
+================================================
+Built by Daniel Grace | github.com/DrDanielGrace
+================================================
